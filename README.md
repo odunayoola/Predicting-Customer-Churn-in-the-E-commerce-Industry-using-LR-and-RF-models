@@ -20,8 +20,6 @@ This project aims to predict customer churn using machine learning techniques. T
   - [Random Forest](#random-forest)
 - [Model Comparison](#model-comparison)
 - [Conclusion](#conclusion)
-- [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
 - [Contact](#contact)
 
 ## Project Overview
